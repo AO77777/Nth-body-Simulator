@@ -1,4 +1,4 @@
-# Martingale Simulator
+# Nth body simulator
 
 Set up number of bodies with mass, size and velocity and run simulation
 
